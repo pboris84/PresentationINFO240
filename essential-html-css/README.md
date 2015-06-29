@@ -2,7 +2,7 @@ essential-html-css
 ==================
 
 INFO 343 Essential HTML/CSS Challenge Assets
-Boris Pavlov #0841034
+Boris Pavlov #0841034  
 Instructor: Michael Freeman
 My server: http://students.washington.edu/borisp/info343/essential-html-css/
 
