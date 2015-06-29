@@ -13,7 +13,7 @@ body {
   background-size: cover; 
   background-repeat: no-repeat;
   background-attachment: fixed;
-}
+} 
 
 /* Links Style */
 a:link, a:visited {color: #0000AA; text-decoration: none;}
